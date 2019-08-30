@@ -4,7 +4,7 @@
 #
 Name     : mvn-accessors-smart
 Version  : 1.2
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2-sources.jar
 Source0  : https://repo1.maven.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2-sources.jar
 Source1  : https://repo1.maven.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar
